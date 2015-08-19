@@ -1,0 +1,22 @@
+{
+  "name": "Panther",
+  "version": "0.0.0",
+  "description": "Timeout Simulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marudhupandiyang/Timeout-Node.js"
+  },
+  "keywords": [
+    "Timeout",
+    "nodejs"
+  ],
+  "author": "marudhupandiyang",
+  "license": "GPL v3.0",
+  "bugs": {
+    "url": "https://github.com/marudhupandiyang/Timeout-Node.js/issues"
+  }
+}
