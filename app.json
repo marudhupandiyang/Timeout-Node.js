@@ -1,0 +1,7 @@
+{
+  "name": "timeouter-nodejs",
+  "description": "Request Timeout using nodejs",
+  "repository": "https://github.com/marudhupandiyang/Timeout-Node.js",
+  "logo": "",
+  "keywords": ["node", "timeout"]
+}

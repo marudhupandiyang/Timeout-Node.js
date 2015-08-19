@@ -1,23 +1,25 @@
 {
-  "name": "Panther",
+  "name": "timeouter-nodejs",
   "version": "0.0.0",
-  "description": "Timeout Simulation",
+  "description": "Request Timeout using nodejs",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  },
+  "engines": {
+    "node": "0.12.2"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/marudhupandiyang/Timeout-Node.js"
   },
   "keywords": [
-    "Timeout",
-    "nodejs"
+    "node",
+    "Timeout"
   ],
   "author": "marudhupandiyang",
-  "license": "GPL v3.0",
-  "bugs": {
-    "url": "https://github.com/marudhupandiyang/Timeout-Node.js/issues"
-  }
+  "license": "GPL v3.0"
 }
